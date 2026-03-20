@@ -71,11 +71,14 @@ bash .\Release\matrix_mult.exe
 
 ### Графики
 Зависимость времени выполнения от размера матрицы
-#### Место для графика 1:
+<img width="1494" height="893" alt="Снимок экрана 2026-03-20 в 00 27 26" src="https://github.com/user-attachments/assets/f75949f5-f602-4a99-b638-4ff170574dc9" />
+
 Ускорение при параллельном выполнении
-### Место для графика 2:
+<img width="1496" height="891" alt="Снимок экрана 2026-03-20 в 00 27 48" src="https://github.com/user-attachments/assets/6d7c234c-2f36-4aa7-9d62-d382a8b31bdc" />
+
 Затраченное время для перемножения матриц 2000x2000
-### Место для графика 3:
+<img width="1512" height="909" alt="Figure_1" src="https://github.com/user-attachments/assets/5b93bfb0-6ee5-43f3-a5d2-3cbdbb9202a4" />
+
 
 
 ### Выводы
@@ -86,4 +89,6 @@ bash .\Release\matrix_mult.exe
 ---
 
 ### Демонстрация работы программы
-https://github.com/user-attachments/assets/2a471213-0043-4581-b3bb-1b0bec9d0ccd
+https://github.com/user-attachments/assets/3b6b9b2a-fe15-42ad-8a95-74017193fb02
+
+
