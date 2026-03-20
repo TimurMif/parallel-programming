@@ -70,13 +70,13 @@ bash .\Release\matrix_mult.exe
 ---
 
 ### Графики
-Зависимость времени выполнения от размера матрицы
+#### Зависимость времени выполнения от размера матрицы
 <img width="1494" height="893" alt="Снимок экрана 2026-03-20 в 00 27 26" src="https://github.com/user-attachments/assets/f75949f5-f602-4a99-b638-4ff170574dc9" />
 
-Ускорение при параллельном выполнении
+#### Ускорение при параллельном выполнении
 <img width="1496" height="891" alt="Снимок экрана 2026-03-20 в 00 27 48" src="https://github.com/user-attachments/assets/6d7c234c-2f36-4aa7-9d62-d382a8b31bdc" />
 
-Затраченное время для перемножения матриц 2000x2000
+#### Затраченное время для перемножения матриц 2000x2000
 <img width="1512" height="909" alt="Figure_1" src="https://github.com/user-attachments/assets/5b93bfb0-6ee5-43f3-a5d2-3cbdbb9202a4" />
 
 
