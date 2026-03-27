@@ -39,7 +39,8 @@ bash mpiexec -n 4 main.exe
 ---
 
 ### Демонстрация работы программы
-https://github.com/user-attachments/assets/3b6b9b2a-fe15-42ad-8a95-74017193fb02
+
+https://github.com/user-attachments/assets/9d5c460b-7e7e-4011-8135-6250e3251921
 
 ---
 
@@ -94,13 +95,15 @@ https://github.com/user-attachments/assets/3b6b9b2a-fe15-42ad-8a95-74017193fb02
 
 ### Графики
 #### Зависимость времени выполнения от размера матрицы
-<img width="1494" height="893" alt="Снимок экрана 2026-03-20 в 00 27 26" src="https://github.com/user-attachments/assets/f75949f5-f602-4a99-b638-4ff170574dc9" />
+<img width="1481" height="816" alt="Снимок экрана 2026-03-27 в 15 19 18" src="https://github.com/user-attachments/assets/e8ef09fe-9e39-47f4-bdbf-4bcf93d5b32a" />
+
 
 #### Ускорение при параллельном выполнении
-<img width="1496" height="891" alt="Снимок экрана 2026-03-20 в 00 27 48" src="https://github.com/user-attachments/assets/6d7c234c-2f36-4aa7-9d62-d382a8b31bdc" />
+<img width="1481" height="808" alt="Снимок экрана 2026-03-27 в 15 19 56" src="https://github.com/user-attachments/assets/9ae1e11c-c79c-4d35-81cf-8122895cd6bf" />
+
 
 #### Затраченное время для перемножения матриц 2000x2000
-<img width="1512" height="909" alt="Figure_1" src="https://github.com/user-attachments/assets/5b93bfb0-6ee5-43f3-a5d2-3cbdbb9202a4" />
+<img width="1181" height="792" alt="Снимок экрана 2026-03-27 в 15 20 16" src="https://github.com/user-attachments/assets/b644ce7f-e19c-4820-9d8a-0ca0fec8ce64" />
 
 
 
