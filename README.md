@@ -26,15 +26,15 @@ cd build
 ```
 Конфигурация проекта (для Visual Studio)
 ```bash
-bash cmake .. -G "Visual Studio 17 2022" -A x64
+cmake .. -G "Visual Studio 17 2022" -A x64
 ```
 Сборка проекта
 ```bash
-bash cmake --build . --config Release
+cmake --build . --config Release
 ```
 Запуск программы
 ```bash
-bash mpiexec -n 4 main.exe
+mpiexec -n 4 main.exe
 ```
 ---
 
