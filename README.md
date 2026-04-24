@@ -49,11 +49,13 @@
 
 ### Графики
 #### Зависимость времени выполнения от размера матрицы
-<img width="1481" height="816" alt="Снимок экрана 2026-03-27 в 15 19 18" src="https://github.com/user-attachments/assets/e8ef09fe-9e39-47f4-bdbf-4bcf93d5b32a" />
+![Uploading Снимок экрана 2026-04-24 в 18.08.24.png…]()
+
 
 
 #### Ускорение от размера задачи
-<img width="1481" height="808" alt="Снимок экрана 2026-03-27 в 15 19 56" src="https://github.com/user-attachments/assets/9ae1e11c-c79c-4d35-81cf-8122895cd6bf" />
+![Uploading Снимок экрана 2026-04-24 в 18.08.53.png…]()
+
 
 
 ### Выводы
