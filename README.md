@@ -49,12 +49,11 @@
 
 ### Графики
 #### Зависимость времени выполнения от размера матрицы
-![Uploading Снимок экрана 2026-04-24 в 18.08.24.png…]()
-
+<img width="986" height="591" alt="Снимок экрана 2026-04-24 в 18 08 24" src="https://github.com/user-attachments/assets/d1f60c6f-7d71-4d81-953a-60be56e389e1" />
 
 
 #### Ускорение от размера задачи
-![Uploading Снимок экрана 2026-04-24 в 18.08.53.png…]()
+<img width="987" height="585" alt="Снимок экрана 2026-04-24 в 18 08 53" src="https://github.com/user-attachments/assets/350a90b6-607a-467c-970b-d045b5cb854d" />
 
 
 
